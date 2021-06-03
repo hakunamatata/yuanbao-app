@@ -1,4 +1,4 @@
-package com.yuanbao.ybsmart;
+package com.yuanbao.smartapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.yuanbao.ybsmart", appContext.getPackageName());
+        assertEquals("com.yuanbao.smartapp", appContext.getPackageName());
     }
 }

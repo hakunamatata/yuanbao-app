@@ -1,4 +1,4 @@
-package com.yuanbao.ybsmart;
+package com.yuanbao.smartapp;
 
 import org.junit.Test;
 
